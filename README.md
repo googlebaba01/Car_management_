@@ -1,7 +1,7 @@
-# Car Hub
+# Car Management System
 
 ## Description
-This Django project is a Car Dealership Management System. It allows users to add and manage cars, brands, and comments. Users can also purchase cars and leave comments on specific cars.
+This Django project is a Car Management System. It allows users to add and manage cars, brands, and comments. Users can also purchase cars and leave comments on specific cars.
 
 ## Features
 - Car Management: Add, edit, and delete cars with details like brand, description, image, price, and quantity.
@@ -24,14 +24,3 @@ This Django project is a Car Dealership Management System. It allows users to ad
 - `templates`: HTML templates for rendering views.
 - `static`: Static files (CSS, images, etc.).
 
-## Usage
-- Visit the homepage to see the list of cars: `http://localhost:8000/`
-- Navigate to the 'Add Car' section to add new cars.
-- Navigate to the 'Brands' section to add and view car brands.
-- Users can purchase cars and leave comments on the car detail page.
-
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
